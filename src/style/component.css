@@ -1,0 +1,66 @@
+.List{
+  background-color: rgb(230, 249, 255);
+}
+.Image{
+  max-width: 10%;
+  max-height: 5%;
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 150px;
+  height: 200px;
+}
+.content{
+max-width: 100%;
+text-align: justify;
+text-justify: inter-word;
+}
+.Butttons{
+  align-content: flex-end;
+  min-width: 45%;
+  max-width: 60%;
+  text-align: right;
+  margin-right: 2%;
+}
+
+b{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.NavButtons{
+    min-width: 40%;
+    max-width: 40%;
+    margin-right: 0%;
+    text-align: right;
+}
+.grow{
+    flex-grow: 1;
+    min-width: 100%;
+}
+.Search{
+  float: left;
+  max-width: 100%;
+  min-width: 45%;
+}
+.Nav{
+  width: 60%;
+  background-color: rgba(253, 253, 253, 0.212);
+  margin-left: 8%;
+}
+.Logo{
+  display: block;
+  color: ivory;
+}
+.Logo2{
+  background-color: rgba(0, 0, 0, 0);
+}
+.Icons{
+  margin-right: 3%;
+}
+.Pass{
+  color: black;
+
+}
